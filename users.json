@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "Ahmed_Abdalla1",
+      "role": "admin"
+    },
+    {
+      "username": "user1",
+      "role": "user"
+    },
+    {
+      "username": "user2",
+      "role": "user"
+    },
+    {
+      "username": "abuma1ek",
+      "role": "user"
+    },
+    {
+      "username": "SalemHJSY",
+      "role": "user"
+    }
+  ]
+}
